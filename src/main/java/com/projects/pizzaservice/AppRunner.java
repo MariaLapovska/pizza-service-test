@@ -17,7 +17,7 @@ import java.time.LocalDate;
 public class AppRunner {
 
     public static void main(String[] args) {
-        ConfigurableApplicationContext context = new AnnotationConfigApplicationContext(RepoConfig.class, ServiceConfig.class);
+        //ConfigurableApplicationContext context = new AnnotationConfigApplicationContext(RepoConfig.class, ServiceConfig.class);
 
 
     }
